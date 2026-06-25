@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there!
+
+### My name is Anshika
+
+- Second year software engineering student at McMaster University
+- Love building projects with impact. I have built things across the stack - web apps, AI tools and even hardware once
+- Would love to connect, feel free to reach out on my LinkedIn: https://www.linkedin.com/in/anshikapatel06/
+
+  <img width="217" height="48" alt="image" src="https://github.com/user-attachments/assets/fc098ac8-3a38-471f-8998-1dbdbe58c901" />
 
 <!--
 **AnshikaP-06/AnshikaP-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
