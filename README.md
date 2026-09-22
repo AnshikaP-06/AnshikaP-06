@@ -2,7 +2,7 @@
 
 ### My name is Anshika
 
-- Second year software engineering student at McMaster University
+- Third year software engineering student at McMaster University
 - Love building projects with impact. I have built things across the stack - web apps, AI tools and even hardware once
 - Would love to connect, feel free to reach out on my LinkedIn: https://www.linkedin.com/in/anshikapatel06/
 
